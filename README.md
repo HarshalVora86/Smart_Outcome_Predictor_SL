@@ -11,6 +11,15 @@ An end-to-end supervised learning project that predicts online-course outcomes f
 
 
 ▶️ [Watch the project walkthrough](https://drive.google.com/file/d/1DnM-QZ4amhXOxq70cKeMRs8ESbVawer_/view?usp=sharing)
+
+---
+
+## 🚀 Live Demo
+
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://smartoutcomepredictorsl.streamlit.app/)
+
+👉 **Try the app here:** [https://smartoutcomepredictorsl.streamlit.app/](https://smartoutcomepredictorsl.streamlit.app/)
+
 ---
 
 ## 📌 Table of Contents
