@@ -5,9 +5,6 @@ An end-to-end supervised learning project that predicts online-course outcomes f
 - **Classification:** Will a student complete the course? (`completion_status`)
 - **Regression:** What final score will the student get, from 0 to 100? (`final_score`)
 
-**Author:** [Harshal Vora](https://github.com/HarshalVora86) · [LinkedIn](https://www.linkedin.com/in/harshal-vora-344601251/)
-**Repository:** [Smart_Outcome_Predictor_SL](https://github.com/HarshalVora86/-Smart_Outcome_Predictor_SL.git)
-
 ---
 
 ## 🎥 Video Explanation
