@@ -9,8 +9,8 @@ An end-to-end supervised learning project that predicts online-course outcomes f
 
 ## 🎥 Video Explanation
 
-▶️ [Watch the project walkthrough](https://drive.google.com/file/d/1DnM-QZ4amhXOxq70cKeMRs8ESbVawer_/view?usp=sharing)
 
+▶️ [Watch the project walkthrough](https://drive.google.com/file/d/1DnM-QZ4amhXOxq70cKeMRs8ESbVawer_/view?usp=sharing)
 ---
 
 ## 📌 Table of Contents
